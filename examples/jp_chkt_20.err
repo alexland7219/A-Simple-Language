@@ -1,0 +1,10 @@
+Line 10:2 error: Return with incompatible type.
+Line 20:4 error: Assignment with incompatible types.
+Line 21:4 error: Assignment with incompatible types.
+Line 22:4 error: Assignment with incompatible types.
+Line 22:21 error: Parameter #2 with incompatible types in call to 'f'.
+Line 23:15 error: Parameter #2 with incompatible types in call to 'f'.
+Line 24:6 error: Identifier 'g' is a void returning function.
+Line 24:8 error: Parameter #1 with incompatible types in call to 'g'.
+Line 24:11 error: Parameter #2 with incompatible types in call to 'g'.
+Line 26:4 error: Assignment with incompatible types.

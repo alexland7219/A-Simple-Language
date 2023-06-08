@@ -1,0 +1,10 @@
+Line 19:9 error: Operator '%' with incompatible types.
+Line 19:12 error: Operator '+' with incompatible types.
+Line 20:12 error: Identifier 'd' is undeclared.
+Line 22:4 error: Assignment with incompatible types.
+Line 22:7 error: Operator '%' with incompatible types.
+Line 22:10 error: Operator 'and' with incompatible types.
+Line 22:15 error: Operator '%' with incompatible types.
+Line 23:2 error: Left expression of assignment is not referenceable.
+Line 24:2 error: Left expression of assignment is not referenceable.
+Line 24:5 error: Assignment with incompatible types.

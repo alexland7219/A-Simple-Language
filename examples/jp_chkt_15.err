@@ -1,0 +1,10 @@
+Line 3:11 error: Operator '+' with incompatible types.
+Line 4:4 error: Assignment with incompatible types.
+Line 5:15 error: Parameter #2 with incompatible types in call to 'f'.
+Line 5:18 error: Operator '+' with incompatible types.
+Line 6:2 error: Left expression of assignment is not referenceable.
+Line 6:6 error: Identifier 'g' is undeclared.
+Line 7:2 error: Left expression of assignment is not referenceable.
+Line 7:4 error: Assignment with incompatible types.
+Line 7:8 error: Identifier 'c' is undeclared.
+Line 7:11 error: Array access to a non array operand.
