@@ -1,2 +1,4 @@
-# A-Simple-Language
-Compiler of ASL (A Simple Language).  Compilers FIB 2023
+# A Simple Language
+This is a compiler for ASL (A Simple Language), main project of Compilers (FIB-UPC) 2023.
+
+
